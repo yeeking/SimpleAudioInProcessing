@@ -1,0 +1,4 @@
+This is a simple, low level audio library for Processing. Technically, its not even a library. 
+
+Just take one of the examples and add your own DSP code to the generateAudioOut method. Whatever you put in the buffer will be sent to the sound card. 
+
